@@ -1,0 +1,20 @@
+h1{
+    color: deepskyblue;
+    text-align: center;
+}
+
+h2{
+    color: deepskyblue;
+    text-decoration: underline;
+}
+
+h3{
+    color:deepskyblue;
+}
+
+button{
+    margin-top: 20px; 
+    color:deepskyblue; 
+    border-color: deepskyblue;
+}
+
